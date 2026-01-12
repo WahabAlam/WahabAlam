@@ -40,33 +40,34 @@ I’m a software engineering student with strong foundations in **software devel
 
 ## 📌 Featured Projects
 
-### 🟡 Pac-Man Game (HTML, CSS, JavaScript)
-**Interactive browser-based recreation of the classic Pac-Man game**
+### 🟡 Pac-Man COVID Awareness Game (Wix + JavaScript)
+**Custom browser-based Pac-Man game developed for an external university project**
 
-- Built entirely using **vanilla JavaScript**, HTML, and CSS  
-- Implemented real-time **player movement, collision detection, and scoring**
-- Designed grid-based game logic with modular code structure
-- Focused on clean state management and responsive controls
+- Developed upon request by students from **another university and academic program**
+- Designed and implemented using **custom HTML, CSS, and vanilla JavaScript**
+- Adapted the classic Pac-Man mechanics into a **COVID-awareness themed game**
+- Implemented grid-based movement, collision detection, scoring, and game state management
+- Integrated into the students’ **Wix website** using custom code blocks to meet their deployment constraints
 
-**Key Skills Demonstrated:**  
-`JavaScript` · `Game Logic` · `DOM Manipulation` · `Problem Solving`
+**Skills Demonstrated:**  
+`JavaScript` · `Requirements-Based Development` · `Game Logic` · `Client-Oriented Design` · `Frontend Engineering`
 
-📂 *Repository coming soon*
+📂 *(https://github.com/WahabAlam/pacman-covid-game)*
 
 ---
 
-### 🔋 Battery State of Health (SOH) Prediction Model
-**Machine learning model for predicting battery health from operational data**
+### 🔋 Battery State of Health (SOH) Prediction — Regression Model
+**Machine learning model to predict battery State of Health using operational data**
 
-- Developed a **data-driven ML pipeline** to predict battery SOH
-- Performed data cleaning, normalization, and feature selection
-- Trained and evaluated predictive models using real datasets
-- Applied ML concepts to an **engineering-focused problem**
+- Built a complete **machine learning regression pipeline** in Python
+- Performed data cleaning, normalization, and feature engineering
+- Trained and evaluated a **Linear Regression model** using scikit-learn
+- Applied machine learning to an **engineering and energy-focused problem**
 
-**Key Skills Demonstrated:**  
-`Python` · `Machine Learning` · `Data Analysis` · `Model Evaluation`
+**Skills Demonstrated:**  
+`Python` · `Machine Learning` · `Regression` · `Data Analysis`
 
-📂 *Repository coming soon*
+📂 *(https://github.com/WahabAlam/SOH-Battery-Detector)*
 
 ---
 
@@ -80,7 +81,7 @@ I’m a software engineering student with strong foundations in **software devel
 ---
 
 ## 📫 Let’s Connect
-- GitHub: **@YourGitHubUsername**
-- LinkedIn: *(optional — add later)*
+- GitHub: **@WahabAlam**
+- LinkedIn: *www.linkedin.com/in/wahab-alam-044151329*
 
 Thanks for checking out my work! ⭐
