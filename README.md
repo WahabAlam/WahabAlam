@@ -1,87 +1,92 @@
 # 👋 Hi, I'm Wahab Alam
 
-🎓 Software Engineering Student | 💻 Full-Stack & ML Enthusiast | 🔧 Problem Solver  
+🎓 Software Engineering Student  
+📊 Machine Learning & Data Science Focus  
+🧠 Applied, Data-Driven Problem Solver  
 
-I’m a software engineering student with strong foundations in **software development, algorithms, and data-driven systems**. I enjoy building projects that combine **clean design, solid engineering principles, and real-world relevance** — from interactive web applications to applied machine learning models.
+I’m a software engineering student with a strong interest in **machine learning and data science**, particularly in applying predictive models to **engineering and real-world datasets**. I enjoy working through the full data pipeline — from preprocessing and feature engineering to model training, evaluation, and interpretation — while leveraging solid software engineering principles to build clean, reproducible systems.
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Technical Focus
 
-### **Programming Languages**
-- JavaScript (ES6+)
-- Python
+### **Core Languages**
+- Python (primary for ML & data analysis)
+- JavaScript
 - Java
-- HTML5 / CSS3
 - SQL
+- HTML5 / CSS3
 
-### **Software Engineering & Development**
+### **Machine Learning & Data Science**
+- Supervised Learning (Regression-focused)
+- Feature Engineering & Data Preprocessing
+- Model Training & Evaluation
+- Error Metrics & Performance Analysis
+- Applied ML for engineering datasets
+- Libraries: NumPy, Pandas, scikit-learn
+
+### **Software Engineering Foundations**
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- MVC & Layered Architectures
-- RESTful Design Principles
+- Modular & Maintainable Code Design
 - Version Control (Git & GitHub)
-- Debugging, Testing, and Code Optimization
+- Debugging, Testing, and Optimization
 
-### **Web Development**
+### **Supporting Web Development Skills**
 - Front-End Development (HTML, CSS, JavaScript)
 - DOM Manipulation & Event Handling
-- Responsive Design
-- Browser-based Game Logic
-
-### **Machine Learning & Data**
-- Supervised Learning (Regression & Classification)
-- Data Preprocessing & Feature Engineering
-- Model Training & Evaluation
-- Python (NumPy, Pandas, Scikit-learn)
-- Applied ML for engineering datasets
+- Browser-Based Application Logic
+- Deployment within CMS platforms (Wix)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🟡 Pac-Man COVID Awareness Game (Wix + JavaScript)
-**Custom browser-based Pac-Man game developed for an external university project**
-
-- Developed upon request by students from **another university and academic program**
-- Designed and implemented using **custom HTML, CSS, and vanilla JavaScript**
-- Adapted the classic Pac-Man mechanics into a **COVID-awareness themed game**
-- Implemented grid-based movement, collision detection, scoring, and game state management
-- Integrated into the students’ **Wix website** using custom code blocks to meet their deployment constraints
-
-**Skills Demonstrated:**  
-`JavaScript` · `Requirements-Based Development` · `Game Logic` · `Client-Oriented Design` · `Frontend Engineering`
-
-📂 *(https://github.com/WahabAlam/pacman-covid-game)*
-
----
-
 ### 🔋 Battery State of Health (SOH) Prediction — Regression Model
-**Machine learning model to predict battery State of Health using operational data**
+**Machine learning regression model for predicting battery State of Health using operational data**
 
-- Built a complete **machine learning regression pipeline** in Python
+- Designed and implemented a **complete ML regression pipeline** in Python
 - Performed data cleaning, normalization, and feature engineering
 - Trained and evaluated a **Linear Regression model** using scikit-learn
-- Applied machine learning to an **engineering and energy-focused problem**
+- Analyzed model performance using regression error metrics
+- Applied machine learning techniques to an **energy and engineering-focused problem**
 
 **Skills Demonstrated:**  
-`Python` · `Machine Learning` · `Regression` · `Data Analysis`
+`Python` · `Machine Learning` · `Regression` · `Data Preprocessing` · `Model Evaluation`
 
-📂 *(https://github.com/WahabAlam/SOH-Battery-Detector)*
+📂 **Repository:**  
+https://github.com/WahabAlam/SOH-Battery-Detector
 
 ---
 
-## 🧠 What I Bring as a Software Engineer
+### 🟡 Pac-Man COVID Awareness Game (Wix + JavaScript)
+**Custom browser-based game developed for an external university project**
+
+- Developed upon request by students from **another university and academic program**
+- Implemented using **custom HTML, CSS, and vanilla JavaScript**
+- Adapted classic Pac-Man mechanics into a **COVID-awareness themed game**
+- Integrated into a **Wix-based website** using custom code blocks to meet deployment constraints
+
+**Skills Demonstrated:**  
+`JavaScript` · `Requirements-Based Development` · `Client-Oriented Design` · `Frontend Engineering`
+
+📂 **Repository:**  
+https://github.com/WahabAlam/pacman-covid-game
+
+---
+
+## 🧠 What I Bring to Machine Learning & Data Roles
 - Strong analytical thinking and structured problem-solving
-- Ability to translate theory into practical, working systems
-- Clean, readable, and maintainable code
-- Comfortable working across **frontend, backend logic, and data**
-- Continuous learner with an engineering mindset
+- Experience working with **real-world, imperfect datasets**
+- Ability to connect **model results to engineering context**
+- Clean, reproducible, and well-documented code
+- Solid software engineering foundation supporting ML workflows
+- Continuous learner with a strong interest in predictive modeling
 
 ---
 
 ## 📫 Let’s Connect
 - GitHub: **@WahabAlam**
-- LinkedIn: *www.linkedin.com/in/wahab-alam-044151329*
+- LinkedIn: https://www.linkedin.com/in/wahab-alam-044151329
 
 Thanks for checking out my work! ⭐
